@@ -37,10 +37,10 @@ footer-links:
 disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:UA-77460121-1
+google_analytics: UA-77460121-1
 jekyll_ga:
-  service_account_email:    # service account email address
-  key_file: privatekey.p12  # service account private key file
+  service_account_email: sibilkak@gmail.com   # service account email address
+  key_file: 52542f6156f57c99b0424107bef5e60a005fb505  # service account private key file
   key_secret: notasecret    # service account private key's password
   profileID: ga:####        # profile ID 
   start: last month         # Beginning of report
